@@ -9,7 +9,6 @@ Visualisations, suivi, projections et analyse de l'épidémie de Covid-19 en Fra
 En tant que projet personnel, réalisation d'un dashboard de suivi de l'épidémie sous forme de site internet:
 https://dashboard-covid-france.github.io/
 
-
 Modélisation et création d'un algorithme de détection de faux billets pour banque
 https://nbviewer.jupyter.org/github/ArtB92/Projets_Data_Analyst/blob/main/detection_faux_billets_banque/P5_02_code.ipynb
 
