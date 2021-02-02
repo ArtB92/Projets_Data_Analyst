@@ -3,9 +3,6 @@
 La plupart des projets ont été réalisés sur des notebook Jupyter en Python ou R. Ils peuvent être visualisés dans les dossiers correspondants, ou via les liens ci-dessous:
 
 
-Visualisations, suivi, projections et analyse de l'épidémie de Covid-19 en France:
-
-
 En tant que projet personnel, réalisation d'un dashboard de suivi de l'épidémie sous forme de site internet:
 https://dashboard-covid-france.github.io/
 
