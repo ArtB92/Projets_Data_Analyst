@@ -10,3 +10,6 @@ https://nbviewer.jupyter.org/github/ArtB92/Projets_Data_Analyst/blob/main/analys
 
 Etude de santé publique:
 https://nbviewer.jupyter.org/github/ArtB92/Projets_Data_Analyst/blob/main/etude_sante_publique/P3_01_code_reponses.ipynb
+
+Modélisation des revenus des prospects d'une banque
+https://nbviewer.jupyter.org/github/ArtB92/Projets_Data_Analyst/blob/main/detection_faux_billets_banque/P5_02_code.ipynb
