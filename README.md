@@ -22,3 +22,5 @@ https://nbviewer.jupyter.org/github/ArtB92/Projets_Data_Analyst/blob/main/predic
 Modélisation des revenus des prospects d'une banque (codé avec R)
 https://nbviewer.jupyter.org/github/ArtB92/Projets_Data_Analyst/blob/main/detection_faux_billets_banque/P5_02_code.ipynb
 
+(si les liens ne fonctionnent pas, les notebooks peuvent être téléchargés dans le repository)
+
