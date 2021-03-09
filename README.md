@@ -12,7 +12,7 @@ https://github.com/ArtB92/Projets_Data_Analyst/blob/main/Rapport_Covid_19_dec_20
 Analyse des ventes d'un e-commerce:
 https://nbviewer.jupyter.org/github/ArtB92/Projets_Data_Analyst/blob/main/analyse_ventes_ecommerce/P4_01_script_donnees_et_analyse.ipynb
 
-<b>Etude de marché pour s'implanter à l'international</b>
+* <b>Etude de marché pour s'implanter à l'international</b>
 https://nbviewer.jupyter.org/github/ArtB92/Projets_Data_Analyst/blob/main/Etude_de_marche/P5_02_code.ipynb
 
 Etude de santé publique:
